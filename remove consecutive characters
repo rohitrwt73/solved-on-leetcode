@@ -1,0 +1,17 @@
+class Solution{
+    public String removeConsecutiveCharacter(String S){
+        StringBuilder sb = new StringBuilder("");
+       
+        for(int i=0; i<S.length(); i++){
+            
+           
+            if(i<S.length()-1 && S.charAt(i)==S.charAt(i+1)){
+                continue;
+            }
+            else {
+                sb.append(S.charAt(i));
+           
+            }
+        }return sb.toString();
+    }
+}
