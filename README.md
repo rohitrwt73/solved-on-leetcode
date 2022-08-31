@@ -1,3 +1,4 @@
 # solved-on-leetcode
-here are some easy questions but took a lot of time initially
-battled through errors
+Here are some easy questions that took a lot of time initially
+battled through errors.
+It also contains challenging problems asked in interviews.
